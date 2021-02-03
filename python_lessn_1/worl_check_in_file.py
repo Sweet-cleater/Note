@@ -1,0 +1,1 @@
+print (open('text2.text').read().count('Python'))
